@@ -12,6 +12,7 @@ class CardSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      height: 100,
       child: Column(children: [
         Text(
           _title,

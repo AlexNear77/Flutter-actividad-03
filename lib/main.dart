@@ -110,7 +110,7 @@ class MyApp extends StatelessWidget {
                           child: CardSection(
                               title:
                                   "корова лола корова лола корова лола - 2017",
-                              title2: "Пепе 2023-03-06"),
+                              title2: "Пепе 2023-77-77"),
                         ),
                       )),
                   Expanded(
